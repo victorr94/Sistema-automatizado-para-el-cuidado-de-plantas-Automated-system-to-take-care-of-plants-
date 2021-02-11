@@ -19,3 +19,5 @@ In this project an automated plant care system has been designed. The prototype 
 A CNC structure has been developed so that the head of the machine can get closer plants. To control the prototype several boards, sensors and actuators have been used, all of them are controlled by Arduino platform which is free hardware and software.
 
 A web platform has been developed so that the final user can interfere or can be informed of the conditions of the plants. With this platform the user of the system can check the condition of the plants and can send commands to the machine.
+
+# Manual de Usuario
