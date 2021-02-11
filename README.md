@@ -11,4 +11,6 @@ https://raw.githubusercontent.com/victorr94/Sistema-automatizado-para-el-cuidado
 
 /main/fotos/Sistema%20completo.JPG
 
-![Optional Text](../master/myFolder/image.png)
+![Optional Text](https://github.com/victorr94/Sistema-automatizado-para-el-cuidado-de-plantas-Automated-system-to-take-care-of-plants-/blob/main/fotos/Sistema%20completo.JPG)
+
+
