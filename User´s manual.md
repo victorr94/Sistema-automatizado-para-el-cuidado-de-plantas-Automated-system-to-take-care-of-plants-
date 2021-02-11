@@ -6,4 +6,7 @@ Diseño, construcción de un sistema domótico que se encarga del cuidado de pla
 Mediante este apartado se pretende que el usuario pueda comprender el funcionamiento del sistema cuando la intención es interactuar, a través de la plataforma web, 
 con el prototipo.
 
-El sistema
+El sistema funciona de manera autónoma. Sin embargo, en caso de que sea necesario manejar el prototipo de manera manual, la aplicación web ofrece esta solución.
+Mediante el uso de la plataforma el usuario podrá activar cualquier proceso o dispositivo.
+
+
