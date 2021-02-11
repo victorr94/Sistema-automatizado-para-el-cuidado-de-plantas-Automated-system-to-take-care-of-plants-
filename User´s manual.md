@@ -17,3 +17,4 @@ con el prototipo.
   En cuanto a los actuadores, el sistema posee tres motores con los que la máquina CNC se puede mover en cualquier dirección, un panel LED, que ofrece a las plantas el espectro necesario de luz para realizar la fotosíntesis y un pequeño ventilador.
 
 
+########fff
