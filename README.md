@@ -20,4 +20,4 @@ A CNC structure has been developed so that the head of the machine can get close
 
 A web platform has been developed so that the final user can interfere or can be informed of the conditions of the plants. With this platform the user of the system can check the condition of the plants and can send commands to the machine.
 
-# Manual de Usuario
+## Manual de Usuario
