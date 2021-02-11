@@ -7,4 +7,6 @@ https://raw.githubusercontent.com/victorr94/Sistema-automatizado-para-el-cuidado
 
 ![Optional Text](../master/fotos/Sistema-completo.jpg)
 
-![Optional Text](../blob/main/fotos/Sistema-completo.jpg)
+![Optional Text](../blob//main/fotos/Sistema%20completo.JPG)
+
+/main/fotos/Sistema%20completo.JPG
