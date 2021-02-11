@@ -10,3 +10,5 @@ https://raw.githubusercontent.com/victorr94/Sistema-automatizado-para-el-cuidado
 ![Optional Text](../blob//main/fotos/Sistema%20completo.JPG)
 
 /main/fotos/Sistema%20completo.JPG
+
+![Optional Text](../master/myFolder/image.png)
