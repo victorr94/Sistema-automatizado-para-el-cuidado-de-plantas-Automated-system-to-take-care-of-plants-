@@ -14,3 +14,12 @@ Con el fin de que el usuario pueda intervenir o sea informado sobre el estado de
 El objetivo principal de este proyecto es dar funcionalidad al sistema, permitiendo que cualquier otro usuario pueda replicarlo o añadirle otras funcionalidades y modificarlo, ya que, todas las herramientas que se han utilizado son “libres”. contribuyendo, de esta manera, a la difusión del conocimiento de manera universal
 
 
+[ENGLISH Description]
+
+In this project an automated plant care system has been designed. The prototype brings information to the user about the plants status and if it is necessary, it modifies the conditions of the plants environment to ensure of the best well-being of the plants.
+
+A CNC structure has been developed so that the head of the machine can get closer plants environment without interfering their growth. To control the prototype several boards, sensors and actuators have been used, all of them are controlled by Arduino platform which is free hardware and software.
+
+A web platform has been developed so that the final user can interfere or can be informed of the conditions of the plants. With this platform the user of the system can check the condition of the plants and can send commands to the machine.
+
+The main objective of this project is to give functionality to the system, allowing to any other user to replicate, to add functionalities or to change it, due to free tools are used. Contributing in this way to the universal dissemination of the knowledge.  
