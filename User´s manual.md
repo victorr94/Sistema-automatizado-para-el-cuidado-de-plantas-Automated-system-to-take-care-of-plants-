@@ -12,7 +12,7 @@ con el prototipo.
   
   El sistema actualmente ofrece realizar procesos de riego, eliminación de malas hierbas y medición de humedad y temperatura ambiental y humedad del terreno. 
   
-  En cuanto a los actuadores, el sistema posee tres motores con los que la máquina CNC se puede mover en cualquier dirección, un panel LED, que ofrece a las plantas el espectro necesario de luz para realizar la fotosíntesis, un pequeño ventilador y una bomba peristáltica con la que se proporciona agua a los vegetales.
+  En cuanto a los actuadores, el sistema posee tres motores con los que la máquina CNC se puede mover en cualquier dirección, un panel LED (desmontable), que ofrece a las plantas el espectro necesario de luz para realizar la fotosíntesis, un pequeño ventilador y una bomba peristáltica con la que se proporciona agua a los vegetales.
   
   
 
@@ -26,13 +26,13 @@ First of all, it is necesary to explain that the system includes an Arduino UNO 
 
 The system currently offers to carry out processes of watering, removing weeds or measurement of ambient humidity and temperature and soil humidity.
 
-Taking into account the actuators, the system has three motors that move the CNC machine in any direction, a LED panel, which offers the plants the necessary spectrum of light to carry out photosynthesis, a small fan and a peristaltic pump that is used to provide water to the vegetables during the watering proccess. 
+Taking into account the actuators, the system has three motors that move the CNC machine in any direction, a LED panel (removable), which offers the plants the necessary spectrum of light to carry out photosynthesis, a small fan and a peristaltic pump that is used to provide water to the vegetables during the watering proccess. 
 
 
 
 ### Uso de la aplicación web
 
-Una vez cargados los diferentes softwares en las placas de Arduino UNO y en la placa ESP32, el sistema atrabajará de manera autónoma. Sin embargo, tambieén se puede acceder a  la aplicación web y de esta manera ordenar al sistema que realice diferentes acciones. A continuación se muestran el entorno de la aplicación web y las posibilidades que ofrece.
+Una vez cargados los diferentes softwares en las placas de Arduino UNO y en la placa ESP32, el sistema trabajará de manera autónoma. Sin embargo, tambieén se puede acceder a  la aplicación web y de esta manera ordenar al sistema que realice diferentes acciones. A continuación se muestran el entorno de la aplicación web y las posibilidades que ofrece.
 
 En primer lugar, para conectarse a la plataforma, será necesario el uso de cualquier dispositivo con conexión a internet. Al iniciar el programa el dispositivo ESP32 ofrecerá la dirección IP a la que está asociada la plataforma. Es necesario copiar esta dirección e introducirla en el buscador de cualquier navegador disponible en el dispositivo.
 
@@ -50,6 +50,8 @@ Otra opción interesante es que en el apartado options del menu desplegable el s
 
 ![](https://github.com/victorr94/Sistema-automatizado-para-el-cuidado-de-plantas-Automated-system-to-take-care-of-plants-/blob/main/fotos/manual.html.JPG)
 
+
+### Use of the web application 
 
 
 
