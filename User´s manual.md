@@ -42,9 +42,13 @@ Al ingresar en la aplicación web el sistema nos lleva a la página inicial (fro
 
 ![](https://github.com/victorr94/Sistema-automatizado-para-el-cuidado-de-plantas-Automated-system-to-take-care-of-plants-/blob/main/fotos/frontpage.html.JPG)
 
+Una vez pulsado el botón de ingreso (GO IN), el sistema lleva al usuario a la página index.html donde se despliegan las diferentes opciones que se pueden realizar.
 
+![](https://github.com/victorr94/Sistema-automatizado-para-el-cuidado-de-plantas-Automated-system-to-take-care-of-plants-/blob/main/fotos/index.html.JPG)
 
+Otra opción interesante es que en el apartado options del menu desplegable el sistema ofrece entrar en modo manual, desde donde se puede mover la máquina en cualquier dirección o encender/apagar el ventilador y/o el panel LED.
 
+![](https://github.com/victorr94/Sistema-automatizado-para-el-cuidado-de-plantas-Automated-system-to-take-care-of-plants-/blob/main/fotos/manual.html.JPG)
 
 
 
