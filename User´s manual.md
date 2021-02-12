@@ -36,7 +36,11 @@ Una vez cargados los diferentes softwares en las placas de Arduino UNO y en la p
 
 En primer lugar, para conectarse a la plataforma, será necesario el uso de cualquier dispositivo con conexión a internet. Al iniciar el programa el dispositivo ESP32 ofrecerá la dirección IP a la que está asociada la plataforma. Es necesario copiar esta dirección e introducirla en el buscador de cualquier navegador disponible en el dispositivo.
 
+![](https://github.com/victorr94/Sistema-automatizado-para-el-cuidado-de-plantas-Automated-system-to-take-care-of-plants-/blob/main/fotos/Información%20ESP32.JPG)
 
+Al ingresar en la aplicación web el sistema nos lleva a la página inicial (frontpage.html), donde se ofrece información visual sobre el sistema y se invita a entrar en la plataforma.
+
+![](https://github.com/victorr94/Sistema-automatizado-para-el-cuidado-de-plantas-Automated-system-to-take-care-of-plants-/blob/main/fotos/frontpage.html.JPG)
 
 
 
