@@ -57,7 +57,7 @@ El sistema ofrece entrar en modo manual a través del apartado options del menu 
 
 Once the different softwares have been loaded to the Arduino UNO board and to the ESP32 board the system will work autonomously. However, the final user also has access to a web platform and in this way can order the system to perform different processes. In the next part of this document the environment of the web aplication will be shown and the posibilities that it offers. 
 
-To enter to the platform it is necessary to use any devece with an internet connection. When the ESP32 board stars running it shows the IP adress associated to the platform. This adress should be copied to the browser of the device with internet connection.
+To enter to the platform it is necessary to use any device with an internet connection. When the ESP32 board stars running it shows the IP adress associated to the platform. This adress should be copied to the browser of the device with internet connection.
 
 ![](https://github.com/victorr94/Sistema-automatizado-para-el-cuidado-de-plantas-Automated-system-to-take-care-of-plants-/blob/main/fotos/Información%20ESP32.JPG)
 
