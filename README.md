@@ -32,9 +32,9 @@ Taking into account the actuators, the system has three motors that move the CNC
 
 ### Uso de la aplicación web
 
-Una vez cargados los diferentes softwares en las placas de Arduino UNO y en la placa ESP32, el sistema trabajará de manera autónoma. Sin embargo, tambieén se puede acceder a  la aplicación web y de esta manera ordenar al sistema que realice diferentes acciones. A continuación se muestran el entorno de la aplicación web y las posibilidades que ofrece.
+Una vez cargados los diferentes softwares en las placas de Arduino UNO y en la placa ESP32, el sistema trabajará de manera autónoma. Sin embargo, también se puede acceder a  la aplicación web y de esta manera ordenar al sistema que realice diferentes acciones. A continuación, se muestran el entorno de la aplicación web y las posibilidades que ofrece.
 
-En primer lugar, para conectarse a la plataforma, será necesario el uso de cualquier dispositivo con conexión a internet. Al iniciar el programa el dispositivo ESP32 ofrecerá la dirección IP a la que está asociada la plataforma. Es necesario copiar esta dirección e introducirla en el buscador de cualquier navegador disponible en el dispositivo.
+Para conectarse a la plataforma, será necesario el uso de cualquier dispositivo con conexión a internet. Al iniciar el programa el dispositivo ESP32 ofrecerá la dirección IP a la que está asociada la plataforma. Es necesario copiar esta dirección e introducirla en el buscador de cualquier navegador disponible en el dispositivo.
 
 ![](https://github.com/victorr94/Sistema-automatizado-para-el-cuidado-de-plantas-Automated-system-to-take-care-of-plants-/blob/main/fotos/Información%20ESP32.JPG)
 
@@ -46,12 +46,31 @@ Una vez pulsado el botón de ingreso (GO IN), el sistema lleva al usuario a la p
 
 ![](https://github.com/victorr94/Sistema-automatizado-para-el-cuidado-de-plantas-Automated-system-to-take-care-of-plants-/blob/main/fotos/index.html.JPG)
 
-Otra opción interesante es que en el apartado options del menu desplegable el sistema ofrece entrar en modo manual, desde donde se puede mover la máquina en cualquier dirección o encender/apagar el ventilador y/o el panel LED.
+El sistema ofrece entrar en modo manual a través del apartado options del menu desplegable, desde donde se puede mover la máquina en cualquier dirección o encender/apagar el ventilador y/o el panel LED.
 
 ![](https://github.com/victorr94/Sistema-automatizado-para-el-cuidado-de-plantas-Automated-system-to-take-care-of-plants-/blob/main/fotos/manual.html.JPG)
 
 
+
 ### Use of the web application 
+
+Once the different softwares have been loaded to the Arduino UNO board and to the ESP32 board the system will work autonomously. However, the final user also has access to a web platform and in this way can order the system to perform different processes. In the next part of this document the environment of the web aplication will be shown and the posibilities that it offers. 
+
+To enter to the platform it is necessary to use any devece with an internet connection. When the ESP32 board stars running it shows the IP adress associated to the platform. This adress should be copied to the browser of the device with internet connection.
+
+![](https://github.com/victorr94/Sistema-automatizado-para-el-cuidado-de-plantas-Automated-system-to-take-care-of-plants-/blob/main/fotos/Información%20ESP32.JPG)
+
+The first page that will be shown is frontpage.html. It is offered general information of the system and guests are invited to enter the platform.
+
+![](https://github.com/victorr94/Sistema-automatizado-para-el-cuidado-de-plantas-Automated-system-to-take-care-of-plants-/blob/main/fotos/frontpage.html.JPG)
+
+Once the enter button (GO IN) has been pressed, the system shows the user the index.html page where different options that can be performed are displayed.
+
+![](https://github.com/victorr94/Sistema-automatizado-para-el-cuidado-de-plantas-Automated-system-to-take-care-of-plants-/blob/main/fotos/index.html.JPG)
+
+The system offers to enter manual mode through the options section of the drop-down menu. In this new page (manual.html) the final user can move the machine in any direction or turn on / off the fan and / or the LED panel.
+
+![](https://github.com/victorr94/Sistema-automatizado-para-el-cuidado-de-plantas-Automated-system-to-take-care-of-plants-/blob/main/fotos/manual.html.JPG)
 
 
 
