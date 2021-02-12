@@ -8,7 +8,7 @@ con el prototipo.
 
   El sistema funciona de manera autónoma. Sin embargo, en caso de que sea necesario, la aplicación web permite manejar el prototipo de manera manual. Mediante el uso de la plataforma el usuario podrá activar cualquier proceso o dispositivo. La aplicación web ha sido desarrollada mediante HTML.
 
-  En primer lugar, hay que destacar que el sistema consta de una placa de Arduino UNO, unida a una placa CNC SHIELD y drivers A4988 que controlarán los movimientos de los motores, todo esto mediante el software grbl (versión 1.1h). La placa de Arduino UNO recibe los comandos G a través de una placa ESP32 (mediante Comunicación UART o serie). Esta placa ESP32 es el núcleo del proyecto, recibe toda la información (procedente de sensores, comandos pulsados en la web...) y actúa en consecuencia, en función de las directrices que se le hayan indicado al programar o de las acciones que se manden ejecutar a través de la web. 
+  En primer lugar, hay que destacar que el sistema consta de una placa de Arduino UNO, unida a una placa CNC SHIELD y drivers A4988 que controlarán los movimientos de los motores (NEMA 17), todo esto mediante el software grbl (versión 1.1h). La placa de Arduino UNO recibe los comandos G a través de una placa ESP32 (mediante Comunicación UART o serie). Esta placa ESP32 es el núcleo del proyecto, recibe toda la información (procedente de sensores, comandos pulsados en la web...) y actúa en consecuencia, en función de las directrices que se le hayan indicado al programar o de las acciones que se manden ejecutar a través de la web. 
   
   El sistema actualmente ofrece realizar procesos de riego, eliminación de malas hierbas y medición de humedad y temperatura ambiental y humedad del terreno. 
   
@@ -22,4 +22,18 @@ Through this section it is pretended so that the final user can get a general kn
 
 The systems works automatically. However if it is necesary the web application lets us to work in a manually mode. Using the web platform the user can activate any proccess, gadget or device All the web platform has been developed using HTML.
 
-Fist of all, it is necesary to explain that the system has 
+First of all, it is necesary to explain that the system includes an Arduino UNO board, a CNC SHIELD board, and drivers A4988. This boards are used to control the movements of the motors (NEMA 17), programmed with the software grbl (1.1h version). The Arduino UNO board receives the G commands trough a ESP32 board (by serial or UART communication). This ESP32 board is the center of the project, It receives all of the information (coming from sensors, pressed commands of the web...) and it acts accordingly, based on the guidelines that have been indicated when programming or on the actions that are ordered to be carried out through the web.
+
+The system currently offers to carry out processes of watering, removing weeds or measurement of ambient humidity and temperature and soil humidity.
+
+Taking into account the actuators, the system has three motors that move the CNC machine in any direction, a LED panel, which offers the plants the necessary spectrum of light to carry out photosynthesis, a small fan and a peristaltic pump that is used to provide water to the vegetables during the watering proccess. 
+
+
+
+
+
+
+
+
+
+
