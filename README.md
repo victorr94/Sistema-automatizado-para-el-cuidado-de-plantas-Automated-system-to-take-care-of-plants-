@@ -52,6 +52,7 @@ El sistema ofrece entrar en modo manual a través del apartado options del menu 
 
 
 
+
 ### Use of the web application 
 
 Once the different softwares have been loaded to the Arduino UNO board and to the ESP32 board the system will work autonomously. However, the final user also has access to a web platform and in this way can order the system to perform different processes. In the next part of this document the environment of the web aplication will be shown and the posibilities that it offers. 
