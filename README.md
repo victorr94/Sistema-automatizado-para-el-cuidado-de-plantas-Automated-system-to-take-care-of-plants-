@@ -16,7 +16,7 @@ Con el fin de que el usuario pueda intervenir o sea informado sobre el estado de
 
 In this project an automated plant care system has been designed. The prototype brings information to the user about the plants status and if it is necessary, it modifies the conditions of the plants environment to ensure of the best well-being of the plants.
 
-A CNC structure has been developed so that the head of the machine can get closer plants. To control the prototype several boards, sensors and actuators have been used, all of them are controlled by Arduino platform which is free hardware and software.
+A CNC structure has been developed so that the head of the machine can get closer to the plants. To control the prototype several boards, sensors and actuators have been used, all of them are controlled by Arduino platform which is free hardware and software.
 
 A web platform has been developed so that the final user can interfere or can be informed of the conditions of the plants. With this platform the user of the system can check the condition of the plants and can send commands to the machine.
 
