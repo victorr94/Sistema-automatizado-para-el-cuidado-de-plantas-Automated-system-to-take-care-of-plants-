@@ -57,11 +57,11 @@ El sistema ofrece entrar en modo manual a través del apartado options del menu 
 
 Once the different softwares have been loaded to the Arduino UNO board and to the ESP32 board the system will work autonomously. However, the final user also has access to a web platform and in this way can order the system to perform different processes. In the next part of this document the environment of the web aplication will be shown and the posibilities that it offers. 
 
-To enter to the platform it is necessary to use any device with an internet connection. When the ESP32 board stars running it shows the IP adress associated to the platform. This adress should be copied to the browser of the device with internet connection.
+To enter to the platform it is necessary to use any device with an internet connection. When the ESP32 board stars running it shows the IP adress associated to the platform. This adress should be copied to the browser of the device.
 
 ![](https://github.com/victorr94/Sistema-automatizado-para-el-cuidado-de-plantas-Automated-system-to-take-care-of-plants-/blob/main/fotos/Información%20ESP32.JPG)
 
-The first page that will be shown is frontpage.html. It is offered general information of the system and guests are invited to enter the platform.
+The first page that will be shown is frontpage.html. It offers general information of the system and guests are invited to enter to the platform.
 
 ![](https://github.com/victorr94/Sistema-automatizado-para-el-cuidado-de-plantas-Automated-system-to-take-care-of-plants-/blob/main/fotos/frontpage.html.JPG)
 
@@ -69,7 +69,7 @@ Once the enter button (GO IN) has been pressed, the system shows the user the in
 
 ![](https://github.com/victorr94/Sistema-automatizado-para-el-cuidado-de-plantas-Automated-system-to-take-care-of-plants-/blob/main/fotos/index.html.JPG)
 
-The system offers to enter manual mode through the options section of the drop-down menu. In this new page (manual.html) the final user can move the machine in any direction or turn on / off the fan and / or the LED panel.
+The system offers to enter manual mode through the options section of the drop-down menu. In this new page (manual.html) the final user can move the machine in any direction or turn on/off the fan and/or the LED panel.
 
 ![](https://github.com/victorr94/Sistema-automatizado-para-el-cuidado-de-plantas-Automated-system-to-take-care-of-plants-/blob/main/fotos/manual.html.JPG)
 
