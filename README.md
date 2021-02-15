@@ -1,11 +1,11 @@
 # Sistema automatizado para el cuidado de plantas / Automated system to take care of plants
-Diseño, construcción de un sistema domótico que se encarga del cuidado de plantas ornamentales / Design and construction of an automated plant care system 
+Diseño y construcción de un sistema domótico que se encarga del cuidado de plantas ornamentales / Design and construction of an automated plants care system 
 
 ![](https://github.com/victorr94/Sistema-automatizado-para-el-cuidado-de-plantas-Automated-system-to-take-care-of-plants-/blob/main/fotos/Sistema%20completo.JPG)
 
 [Descripción ESPAÑOL]
 
-En este proyecto se ha diseñado un sistema domótico que se encarga del cuidado de plantas. El prototipo proporciona información al usuario sobre el estado de los vegetales y, modifica las condiciones de su entorno para asegurar su correcto crecimiento y bienestar.
+En este proyecto se ha diseñado un sistema domótico que se encarga del cuidado de plantas en el ámbito doméstico. El prototipo proporciona información al usuario sobre el estado de los vegetales y, modifica las condiciones de su entorno para asegurar su correcto crecimiento y bienestar.
 
 Se ha desarrollado una estructura tipo CNC de modo que, el cabezal de la máquina se aproxima al ecosistema de las plantas. Para poder controlar el prototipo, se han utilizado diferentes placas, sensores y actuadores que se programan bajo la plataforma Arduino, de software y hardware libre.
 
