@@ -18,7 +18,7 @@ con el prototipo.
 
 ## System Operation
 
-Through this section it is pretended so that the final user can get a general knowledge of the system operation, when the intention is to interactuate, throughout the web platform, with the prototipe.
+The aim of this section is to give users information in order to get a general knowledge of the system operation, when the user's intention is to interactuate with the prototype, throughout the web platform.
 
 The systems works automatically. However if it is necesary the web application lets us to work in a manually mode. Using the web platform the user can activate any proccess, gadget or device. All the web platform has been developed using HTML.
 
