@@ -44,7 +44,7 @@ Una vez pulsado el botón de ingreso (GO IN), el sistema lleva al usuario a la p
 
 El sistema ofrece entrar en modo manual a través del apartado options del menu desplegable, desde donde se puede mover la máquina en cualquier dirección o encender/apagar el ventilador y/o el panel LED.
 
-![](https://github.com/victorr94/Sistema-automatizado-para-el-cuidado-de-plantas-Automated-system-to-take-care-of-plants-/blob/main/fotos/manual.html.JPG)
+![](https://github.com/victorr94/Sistema-automatizado-para-el-cuidado-de-plantas-Automated-system-to-take-care-of-plants-/blob/main/fotos/manual.PNG)
 
 
 
@@ -63,7 +63,7 @@ Once the enter button (GO IN) has been pressed, the system shows the user the in
 
 The system offers to enter manual mode through the options section of the drop-down menu. In this new page (manual.html) the final user can move the machine in any direction or turn on/off the fan and/or the LED panel.
 
-![](https://github.com/victorr94/Sistema-automatizado-para-el-cuidado-de-plantas-Automated-system-to-take-care-of-plants-/blob/main/fotos/manual.html.JPG)
+![](https://github.com/victorr94/Sistema-automatizado-para-el-cuidado-de-plantas-Automated-system-to-take-care-of-plants-/blob/main/fotos/manual.PNG)
 
 
 
