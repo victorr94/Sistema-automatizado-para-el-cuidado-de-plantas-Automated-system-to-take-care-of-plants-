@@ -14,7 +14,7 @@ Con el fin de que el usuario pueda intervenir o sea informado sobre el estado de
 
 [ENGLISH Description]
 
-In this project an automated plant care system has been designed in order to take care of plants in a domestic environment. The prototype brings information to the user about the plants status and if it is necessary, it modifies the conditions of the plants environment to ensure of the best well-being of the plants.
+In this project an automated plant care system has been designed in order to take care of plants in a domestic environment. The prototype brings information to the user about the plants' status and if it is necessary, it modifies the conditions of the plants' environment to ensure of the best well-being of the plants.
 
 A CNC structure has been developed so that the head of the machine can get closer to the plants. To control the prototype, several boards, sensors and actuators have been used. All of them are controlled by Arduino platform which is free hardware and software.
 
