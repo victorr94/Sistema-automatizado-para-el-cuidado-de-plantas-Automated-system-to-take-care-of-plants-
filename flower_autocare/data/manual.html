@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <!-- Meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="css/bootstrap.min.css"
+    integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+
+  <title>MANUAL</title>
+</head>
+
+<body>
+  <!-- página manual con título y subtitulo y comandos con flechas y switch para LED y fan-->
+
+  <div class="jumbotron text-center bg-dark text-white" style="margin-bottom:0">
+    <h1>Manual </h1>
+    <h3>Flower Autocare</h3>
+    <p>Beatiful flowers without worries!</p>
+  </div>
+  <div class="container">
+    <h1>Manual Commands</h1>
+    <h2>Press any key you want </h2>
+    <h1></h1>
+
+    <div>
+
+      <div class="row" style="margin-top: 30px;">
+        <div class="col-9">
+          <div class="row">
+            <div class="col-4"></div>
+            <div class="btn btn-secondary col-4" id="backward" type="button" style="background-color:lightgrey;">&#8679
+            </div>
+            <div class="col-4"></div>
+          </div>
+
+          <div class="row">
+            <div class="btn btn-secondary col-4" id="left" type="button" style="background-color:lightgrey;">&#8678
+            </div>
+            <div class="col-4" style=></div>
+            <div class="btn btn-secondary col-4" id="right" type="button" style="background-color:lightgrey;">&#8680
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="col-4"></div>
+            <div class="btn btn-secondary col-4" id="forward" type="button" style="background-color:lightgrey;">&#8681
+            </div>
+            <div class="col-4"></div>
+          </div>
+        </div>
+        
+
+        <div class="col-3">
+          <div class="btn-group-vertical align-middle">
+            <div class="btn btn-secondary" id="UP" type="button" style="background-color:lightgrey;">UP</div>
+            <div class="btn btn-secondary" id="down" type="button" style="background-color:lightgrey;">DOWN</div>
+          </div>
+
+        </div>
+      </div>
+
+      <div class="custom-control custom-switch">
+        <input type="checkbox" class="custom-control-input" id="LED">
+        <label class="custom-control-label" for="LED">Led Light</label>
+      </div>
+
+      <div class="custom-control custom-switch">
+        <input type="checkbox" class="custom-control-input" id="FAN">
+        <label class="custom-control-label" for="FAN">Humidity Fan</label>
+      </div>
+    </div>
+
+  <!-- jQuery y Bootstrap Bundle (incluye librería Popper) -->
+    <script src="js/jquery-3.5.1.min.js"
+      integrity="sha384-ZvpUoO/+PpLXR1lu4jmpXWu80pZlYUAfxl5NsBMWOEPSjUn/6Z/hRTt8+pR6L4N2"
+      crossorigin="anonymous"></script>
+    <script src="js/bootstrap.bundle.min.js"
+      integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx"
+      crossorigin="anonymous"></script>
+    <script src="js/javascriptmanual.js"></script>
+</body>
+
+</html>
